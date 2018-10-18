@@ -70,5 +70,5 @@ Temporary Items
 
 
 ## ignore pdf 
-*.pdf
 *.zip
+*.docx
