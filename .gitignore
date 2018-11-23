@@ -72,3 +72,4 @@ Temporary Items
 ## ignore 
 *.zip
 *.docx
+makefile
